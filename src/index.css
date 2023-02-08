@@ -1,0 +1,10 @@
+body{
+  background-color: #004643;
+}
+.menu-button{
+  border-radius: 20%;
+}
+.item{
+  border-radius: 20%;
+  background-color:#f9bc60
+}
