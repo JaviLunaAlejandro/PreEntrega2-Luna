@@ -1,10 +1,73 @@
 body{
   background-color: #004643;
 }
-.menu-button{
-  border-radius: 20%;
+Button{
+  display: block;
+  width: 100px;
+  height: 50px;
+  border-color: #004643;
+  border-radius: 10%;
+  position: relative;
+  background-color: #f9bc60 ;
 }
-.item{
-  border-radius: 20%;
-  background-color:#f9bc60
+a{
+  color: #e16162;
+  text-decoration: none;
+}
+.cart{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 50%;
+}
+ .main-catalogue{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.card-footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.card-main{ 
+  border-radius: 5%;
+  background-color: #f9bc60;
+  width: 190px;
+  height: 50%;
+  text-align: center;
+}
+
+
+.cart-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  height: 25%;
+  margin: 10rem;
+}
+.Button-plus{
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: relative;
+  border-style: solid;
+  background-color: #e16162;
+}
+.Button-add{
+  display: block;
+  width: 100px;
+  height: 50px;
+  border-radius: 5%;
+  border-style: solid;
+  background-color: #f9bc60 ;
 }

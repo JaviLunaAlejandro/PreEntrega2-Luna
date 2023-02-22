@@ -1,0 +1,61 @@
+[
+    {
+     "id":1,
+     "name":"Dog Chow",
+     "price":9.505,
+     "description":"Alimento Dog Chow Sin Colorantes para Perro Adulto Mediano Grande - 21 Kg",
+     "stock":20,
+     "category":"Perros",
+     "img":"https://puppis.vteximg.com.br/arquivos/ids/186015-150-150/138122.jpg?v=637836415480870000"
+    },
+
+    {
+     "id":2,
+     "name":"Dog Chow",
+     "price":4125,
+     "description":"Alimento Dog Chow Sin Colorantes para Adulto Mediano Grande - 8 Kg",
+     "stock":15,
+     "category":"Perros",
+     "img":"https://puppis.vteximg.com.br/arquivos/ids/186005-150-150/138120.jpg?v=637836415418370000"
+    },
+
+    {
+     "id":3,
+     "name":"Cat Chow",
+     "price":11470,
+     "description":"Cat Chow Adulto Carne y Pollo - 15 Kg",
+     "stock":12,
+     "category":"Gatos",
+     "img":"https://puppis.vteximg.com.br/arquivos/ids/186030-150-150/137007.jpg?v=637836434520330000"
+    },
+
+    {
+     "id":4,
+     "name":"Cat Chow",
+     "price":6675,
+     "description":"Cat Chow Adulto Carne y Pollo - 8 Kg",
+     "stock":30,
+     "category":"Gatos",
+     "img":"https://puppis.vteximg.com.br/arquivos/ids/186045-150-150/137010.jpg?v=637836434587300000"
+    },
+
+    {
+     "id":5,
+     "name":"Kong",
+     "price":3280,
+     "description":"Pelota Kong Air Bul - XL",
+     "stock":10,
+     "category":"Accesorios",
+     "img":"https://puppis.vteximg.com.br/arquivos/ids/173881-150-150/224292.jpg?v=637414752977830000"
+    },
+
+    {
+     "id":6,
+     "name":"Puppis",
+     "price":1020,
+     "description":"Mancuerna Puppis Básquet de Vinilo - Mancuerna Puppis Básquet Vinilo",
+     "stock":50,
+     "category":"Accesorios",
+     "img":"https://puppis.vteximg.com.br/arquivos/ids/186460-150-150/269252.jpg?v=637868476664200000"
+    }
+]
